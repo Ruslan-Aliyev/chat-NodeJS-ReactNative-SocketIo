@@ -6,7 +6,7 @@ Uses `socket.io`
 
 # Frontend
 
-Port 5173
+Run on Simulators and/or Expo Go on device
 
 Uses `socket.io-client`
 
